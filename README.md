@@ -2,7 +2,7 @@
 
 
 <img src ="https://c2.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2021/09/apple-event-14-septembre-2021.jpg?resize=320,300" 
-width="900">
+width="500">
 
 ## Descriptions
 
