@@ -1,7 +1,7 @@
 # Tweets-Customers-Apple
 
 
-<img src ="https://c2.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2021/09/apple-event-14-septembre-2021.jpg?resize=320,300" 
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsve1giR4-7LGOZEP0AKiIKPY9w8zJQwKZZcoAy9cyTbO5YL_9EpdEo_i1h3AkRnXLGlQ&usqp=CAU" 
 width="500">
 
 ## Descriptions
