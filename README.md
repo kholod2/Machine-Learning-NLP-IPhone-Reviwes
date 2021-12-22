@@ -1,10 +1,8 @@
 # Tweets-Customers-Apple
 
 
-<img src ="![222](https://user-images.githubusercontent.com/93085248/147158810-d59d892c-fd83-4346-bb44-7ff281467b84.jpg)
-
-" 
-width="500">
+<img src ="![222](https://user-images.githubusercontent.com/93085248/147158810-d59d892c-fd83-4346-bb44-7ff281467b84.jpg)" 
+width="100">
 
 ## Descriptions
 
@@ -15,8 +13,8 @@ satisfied or not for services and products to be improvement and development the
  ## Data
  The data is tweets for AppleCO, the size of the data is 24982 rows and 2 columns, consisting of:
 
-Text: Tweets about Apple 
-Sentiment: either positive or negative about Apple 
+- Text: Tweets about Apple 
+- Sentiment: either positive or negative about Apple 
 
 
 
