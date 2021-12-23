@@ -1,6 +1,6 @@
 # Tweets-Customers-Apple
 
-<img src ="https://user-images.githubusercontent.com/93085248/147159311-db48baff-7696-4c52-a818-5b224d73de80.jpg" width="50">
+<img src ="https://user-images.githubusercontent.com/93085248/147159311-db48baff-7696-4c52-a818-5b224d73de80.jpg" width="50%">
 
 ## Descriptions
 
