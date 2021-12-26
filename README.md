@@ -1,19 +1,18 @@
-# Tweets-Customers-Apple
+# Reviwes iPhone SE
 
-<img src ="https://user-images.githubusercontent.com/93085248/147159311-db48baff-7696-4c52-a818-5b224d73de80.jpg" width="50%">
+<img src ="" width="50%">
 
 ## Descriptions
 
-Sentiment Analysis Of Apple Tweets using NLP Sentiment of tweets about the company Apple. 
-We are using the twitter data to understand the customer apple to know either if they are
-satisfied or not for services and products to be improvement and development their company. 
+Sentiment Analysis Of i Phone SE from AppleCO . 
+We are using the data to understand the customer apple to know either if they are
+satisfied or not for products to be improvement and development their company. 
 
  ## Data
- The data is tweets for AppleCO, the size of the data is 1630 rows and 2 columns, consisting of:
-
-- Text: Tweets about Apple 
-- Sentiment: either positive or negative about Apple 
-
+We have user rating of Apple iPhone SE on e-commerce website. The data about is user rating, review heading and the review text to be used as an NLP text classification project:
+- Rating: User rating of the product on a scale of 1 to 5, where 1 is poor and 5 is the best
+- Comment: Heading of the user review
+- Reivews: body text of the user review
 
 
 ## Tools
@@ -24,7 +23,6 @@ satisfied or not for services and products to be improvement and development the
 - pandas
 - sklearn
 - Nltk
-- Twitter Dev
 - API
 
 
