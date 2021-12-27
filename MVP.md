@@ -16,5 +16,5 @@
 
 - The above figure shows the most used words
 
-<img src ="wordpng.jpg" 
-width="900">
+<img src ="wordpng.png" 
+width="100">
