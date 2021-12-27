@@ -1,4 +1,6 @@
- # iPhone SE(MVP)
+# iPhone SE(MVP)
+
+
 ## Goal :
 - The primary goal of the project is if the customer satisfied about the iphone SE for AppleCO
 
@@ -13,3 +15,7 @@
 ## Findings
 
 - The above figure shows the most used words
+
+<img src ="images.githubusercontent.com/93085248/147462508-06aba78b-f703-47fb-8996-9516d2811a5d.png)
+" 
+width="900">
