@@ -1,6 +1,6 @@
 # Reviwes iPhone SE
 
-<img src ="" width="50%">
+
 
 ## Descriptions
 
