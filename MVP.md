@@ -1,4 +1,4 @@
- # i Phone SE(MVP)
+ # iPhone SE(MVP)
 ## Goal :
 - The primary goal of the project is if the customer satisfied about the iphone SE for AppleCO
 
