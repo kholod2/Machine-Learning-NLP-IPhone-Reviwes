@@ -16,5 +16,5 @@
 
 - The above figure shows the most used words
 
-<img src ="images.githubusercontent.com/93085248/147462600-344358f5-9761-4d29-bf30-ffb51248d20b.png" 
+<img src ="wordpng.jpg" 
 width="900">
