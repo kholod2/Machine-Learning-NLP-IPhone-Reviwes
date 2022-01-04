@@ -41,6 +41,12 @@ We have user rating of Apple iPhone SE on e-commerce website. The data about is 
 
  The high Accuracy Score model Random Forset .93 
 
+ Topic LDA by pyLADvis :
+  ![image](https://user-images.githubusercontent.com/93085248/148120699-0106d55d-c34d-44a9-ad2c-e32c6899ff48.png)
+
+
+
+
  Kmeans:
  
  ![image](https://user-images.githubusercontent.com/93085248/148120476-057f62ad-ee05-483a-a93c-b580ec8fe2f8.png)
